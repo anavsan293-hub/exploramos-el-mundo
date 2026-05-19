@@ -1,1 +1,16 @@
-<svg fill="none" height="150" viewBox="0 0 150 150" width="150" xmlns="http://www.w3.org/2000/svg"><circle cx="75" cy="75" fill="#fff" r="75"/></svg>
+<?xml version="1.0"?>
+<theme>
+    <name>neo</name>
+    <title>Neo</title>
+    <version>2025</version>
+    <compatibility>3.0</compatibility>
+    <author>3ipunt for eXeLearning.net</author>
+    <license>Creative Commons by-sa</license>
+    <license-url>http://creativecommons.org/licenses/by-sa/3.0/</license-url>
+    <description>Innovación con propósito.
+
+iDevice icons by Francisco Javier Pulido Cuadrado, and new adaptations by eXeLearning.
+
+Nunito Font, by Vernon Adams (vern@newtypography.co.uk), under the SIL Open Font License, Version 1.1. Copyright (c) 2014, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Name "Nunito".</description>
+    <downloadable>1</downloadable>
+</theme>
